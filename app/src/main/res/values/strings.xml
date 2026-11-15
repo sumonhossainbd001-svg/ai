@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AI Video Studio</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_generate">Generate</string>
+    <string name="nav_editor">Editor</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_settings">Settings</string>
+    <string name="firebase_ai_notice">Built-in Gemini AI features require Firebase AI Logic. Showing clearly labeled sample outputs unless connected.</string>
+    <string name="no_video_provider_error">No video generation API is connected. Open API Manager to add Runway, Luma AI, Veo, or a custom endpoint.</string>
+</resources>
